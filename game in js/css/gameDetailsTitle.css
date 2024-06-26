@@ -1,0 +1,20 @@
+#detailsTitle{
+    display: flex;
+    justify-content: space-around;
+ 
+}
+.title{
+    
+    width: 30%;
+    height: 30px;
+    font-size: 20px;
+    border-radius: 2px;
+    color: black;
+    margin-top: 2%;
+    margin-inline-start: 0%;
+    display: flex;
+    justify-content: space-around;
+     font-weight: 800;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   
+}

@@ -1,0 +1,49 @@
+body{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  background-image:url(../pic/signUp.gif); 
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+fieldset{
+  width: 40%;
+  margin-right: 30%;
+  margin-top: 10%;
+}
+
+legend{
+  font-size: x-large;
+ color:#474444;
+}
+
+
+input[type=text], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #2f2e2e;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+#pass{
+  width: 100%;
+  background-color: #e49e6b;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+#pass:hover{
+  background-color: #c5875a;
+}
+
+div {
+  border-radius: 5px;
+  background-color: #f0eded;
+  padding: 20px;
+}

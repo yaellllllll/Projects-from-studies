@@ -1,0 +1,41 @@
+body{
+    background-image:url(../pic/background_intro.gif);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+#introdections{
+    margin-top: 15%;
+}
+
+h1{
+    font-size: x-large;
+    color: rgb(0, 0, 0);
+    margin-right: 32%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+} 
+h2{
+    font-size: x-large;
+    color: rgb(16, 103, 107);
+    margin-right: 30%;
+    margin-top: 3%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+} 
+
+p{
+    font-size: medium;
+    color: rgb(0, 0, 0);
+    margin-right: 32%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ } 
+ 
+ #enjoy{
+    margin-right: 55%;
+ }
+a{
+    text-decoration: none;
+}
+
+
+

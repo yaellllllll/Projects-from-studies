@@ -1,0 +1,30 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-image:url(../pic/backfground_quest.gif);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+#question{
+    font-size: 30px;
+    margin-top: 8%;
+    margin-right:20%;
+}
+
+ #answers{
+    margin-top: 0.5%;
+    margin-right:25%;
+    font-size: 30px;
+
+}
+
+#writeOrWrong{
+    margin-top: 1%;
+    margin-right:25%;
+    background-color: rgb(255, 255, 255);
+    height: 40px;
+    width: 150px;
+    border-radius: 50000px;
+    margin-right: 30%;
+}

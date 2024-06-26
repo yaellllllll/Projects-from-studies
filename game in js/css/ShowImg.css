@@ -1,0 +1,40 @@
+body{
+    background-image:url(../pic/background_img.gif);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+img {
+    width:37%;
+    height: 30%;
+    margin-right: 17%;
+    margin-top: 5%;
+}
+
+h2 {
+    color: rgb(0, 0, 0);
+    margin-right: 28%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.pill {
+    background-color: #e4ae87;
+    height: 60px;
+    width: 200px;
+    border-radius: 50000px;
+    margin-right: 26%;
+
+}
+
+
+#chooseLevel {
+    display: none;
+    margin-top: 7%;
+ 
+}
+
+
+a{
+    text-decoration: none;
+}

@@ -1,0 +1,12 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-image:url(../pic/final_page.gif); 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+#summryText{
+    margin-left:23%;
+    margin-top: 25%;
+}
